@@ -1,0 +1,48 @@
+{
+	"intents": [
+		{
+			"tag": "greeting",
+			"patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+			"responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"]
+		},
+		{
+			"tag": "goodbye",
+			"patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+			"responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+		},
+		{
+			"tag": "Fat Loss",
+			"patterns": ["What is fat loss?", "How to lose weight?", "Tell me about fat loss", "Tell me about weight loss", "What is a calorie deficit?"],
+			"responses": ["Fat loss is the process of reducing the amount of fat in your body, typically through a combination of diet and exercise. Caloric deficit is key component of fat loss, meaning you consume fewer calories than your body burns. This can be achieved by eating less, exercising more, or a combination of both."]
+		},
+		{
+			"tag": "muscle Gain",
+			"patterns": ["What is muscle gain?", "How to build muscle?", "Tell me about muscle gain", "Tell me about bodybuilding", "What is hypertrophy?"],
+			"responses": ["Muscle gain is the process of increasing the size and strength of your muscles through resistance training and proper nutrition. Hypertrophy refers to the increase in muscle size that occurs as a result of strength training."]
+		},
+		{
+			"tag": "Protein Intake",
+			"patterns": ["What is protein intake?", "How much protein do I need?", "Tell me about protein intake", "What are good sources of protein?", "How to increase protein intake?"],
+			"responses": ["Protein intake refers to the amount of protein you consume through your diet. It's essential for muscle repair, growth, and overall health. The recommended dietary allowance (RDA) for protein is 0.8 grams per kilogram of body weight, but athletes and active individuals may require more. Good sources of protein include lean meats, poultry, fish, eggs, dairy products, legumes, and nuts."]
+		}
+		,
+		{
+			"tag": "weightlifting",
+			"patterns": ["should women lift weights?", "will women get bulky?", "What are the benefits of weightlifting for women?", "How to start weightlifting?", "How often should I exercise?"],
+			"responses": ["Weightlifting is a form of strength training that uses weights for resistance. It's beneficial for women as it helps build muscle, increase strength, improve bone density, and boost metabolism. Women typically do not get bulky from weightlifting due to lower testosterone levels compared to men. It's important to start with lighter weights and focus on proper form to avoid injury."]
+		}
+		,
+		{
+			"tag": "nutrition",
+			"patterns": ["What is a balanced diet?", "How to eat healthy?", "What are macronutrients?", "What is the role of carbohydrates?", "How to maintain a healthy diet?"],
+			"responses": ["A balanced diet includes a variety of foods from all food groups: fruits, vegetables, grains, protein sources, and dairy. Eating healthy involves consuming nutrient-dense foods while limiting processed foods high in sugar and unhealthy fats. Macronutrients include carbohydrates, proteins, and fats, each playing a crucial role in providing energy and supporting bodily functions."]
+		}
+		,
+		{
+			"tag":"workout plan",
+			"patterns": ["How to create a workout plan?", "What should my workout routine look like?", "How to structure my workouts?", "What are the best exercises for my goals?", "How to stay motivated with my workout plan?"],
+			"responses": ["Creating a workout plan involves setting clear fitness goals, determining your current fitness level, and selecting exercises that align with your objectives. It's important to include a mix of cardiovascular, strength, and flexibility training. Consider consulting a fitness professional for personalized guidance or you can go youtubers like Jeff Nippard, Saket Gokhale, or Mukesh Ghelot for workout plans. Staying motivated can be achieved by tracking your progress, varying your routine, and finding a workout buddy or community for support."]
+		}
+
+	]
+}
